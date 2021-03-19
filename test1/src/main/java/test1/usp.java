@@ -10,8 +10,11 @@ public class usp {
 		String name="Genoslava";
 		
 		System.out.println(name);
-		
+		System.out.println(name);
+		System.out.println(name);
 
+		int nCounter=0;
+		
 	}
 
 }
