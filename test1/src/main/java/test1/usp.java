@@ -6,6 +6,7 @@ public class usp {
 		System.out.println("Hello World");
 		System.out.println("Hello World");
 		int i = 1;
+		int c = 2;
 
 	}
 
