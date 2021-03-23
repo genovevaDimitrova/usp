@@ -15,7 +15,7 @@ public class usp {
 		
 		int nRandomNum=10;
 		
-		String name="Genoslava";
+		String name="FreshGurmej";
 		
 		System.out.println(name);
 		System.out.println(name);
