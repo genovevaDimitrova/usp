@@ -13,7 +13,7 @@ public class usp {
 		System.out.println(name);
 		System.out.println(name);
 
-	
+		String JojoMojo = "\n\n\nJonathan Joestar!";
 		
 	}
 
