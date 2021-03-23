@@ -13,8 +13,14 @@ public class usp {
 		System.out.println(name);
 		System.out.println(name);
 
-		String JojoMojo = "\n\n\nJonathan Joestar!";
+		String JojoMojo1 = "\n\n\nJonathan Joestar!";
 		
+		
+		String JojoMojo2 = "\n\n\nJonathan Joestar!!!";
+		
+		String JojoMojo3 = "\n\n\nJonathan Joestar!!!";
+
+
 	}
 
 }
